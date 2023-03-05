@@ -4,7 +4,7 @@ UTK_Face_VAE.ipynb sets up a VAE and generates images of faces to be trained on 
 
 UTK_Face_GAN.ipynb trains a GAN with the UTKFace images
 
-Balancing-GAN-UTKFace.ipynb uses the Balancing GAN (existing method)
+Balancing-GAN-UTKFace.ipynb uses the Balancing GAN (existing method) to generate facial images
 
 DB-VAE-LargeUTKFace.ipynb uses DBVAE (existing method) with all races
 
